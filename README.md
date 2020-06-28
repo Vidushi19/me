@@ -1,4 +1,6 @@
-# React JS Resume Web App Template      
+# React JS Resume Web App Template  
+Find me at: https://vidushi19.github.io/me_/
+
 ![ReactJS Resume Website Template](Resume_Screenshot.png?raw=true "ReactJS Resume Website Template")
 
 ## Description
@@ -15,7 +17,6 @@ For this project we will also need to install JQuery and ReactGA, do this by run
 6. Of course, all of the code is there and nothing is hidden from you so if you would like to make any other styling changes, feel free!
 7. When you're all done, run `npm start` again and you'll see your new personal resume website! Congratulations!
 
-## Credits
 #### HTML Design Template
 <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
 ##### Header photo credit
