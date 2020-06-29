@@ -124,6 +124,18 @@
       {
         "name":"CircleCI",
         "level":"95%"
+      },
+      {
+        "name":"Docker",
+        "level":"90%"
+      },
+      {
+        "name":"Kubernetes",
+        "level":"90%"
+      },
+      {
+        "name":"Jenkins",
+        "level":"90%"
       }
     ]
   },
