@@ -4,7 +4,7 @@ Find me at: https://vidushi19.github.io/me_/
 ![ReactJS Resume Website Template](Resume_Screenshot.png?raw=true "ReactJS Resume Website Template")
 
 ## Description
-This is a ReactJS based personal resume website template. I have built this by following a Udemy course (credits below) and by beginning with the Ceevee template by Styleshout (credits also below), and breaking up their template into isolated React components. Data is fed directly from a JSON File. This means that in its final form, it can be customized and used by anybody simply by filling in their own personal info into the JSON file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
+This is a ReactJS based personal resume website template. I have built this by providing Data directly from a JSON File. This means that in its final form, it can be customized and used by anybody simply by filling in their own personal info into the JSON file and the changes will be dynamically fed into the site. If you would like to use this template for your own personal resume website, read on to learn how to build your own copy.
 
 1. To build this website, you will need to have Node >=6 downloaded and installed on your machine. If you don't already have it, you can get it <a href="https://nodejs.org/en/download/">HERE</a>
 2. Next, you will build the initial application using a handy tool called Create-React-App. This allows you to get up and running with a React app without the headache of setting up build-tool configurations. Go <a href="https://reactjs.org/docs/installation.html">HERE</a> to get started.
@@ -16,8 +16,3 @@ For this project we will also need to install JQuery and ReactGA, do this by run
 5. To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
 6. Of course, all of the code is there and nothing is hidden from you so if you would like to make any other styling changes, feel free!
 7. When you're all done, run `npm start` again and you'll see your new personal resume website! Congratulations!
-
-#### HTML Design Template
-<a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
-##### Header photo credit
-<a href="https://www.wix.com/logo/maker">Wix</a>
