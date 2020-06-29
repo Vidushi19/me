@@ -1,4 +1,4 @@
-# React JS Resume Web App Template  
+# React JS Resume Web App  
 Find me at: https://vidushi19.github.io/me_/
 
 ![ReactJS Resume Website Template](Resume_Screenshot.png?raw=true "ReactJS Resume Website Template")
