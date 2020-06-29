@@ -701,13 +701,13 @@ call-to-action .button {
    padding-bottom: 66px;
 }
 #testimonials h1 {
-   font: 10px/22px 'opensans-bold', sans-serif;
+   font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
    color: #fff;
 }
-#testimonials h1 span { display: inherit; }
-#testimonials .header-col { padding-top: 19px; }
+#testimonials h1 span { display: none; }
+#testimonials .header-col { padding-top: 9px; }
 #testimonials .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f10d";
