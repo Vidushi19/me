@@ -4,6 +4,7 @@ class Portfolio extends Component {
   render() {
 
     if(this.props.data){
+      var d = this.props.data.giturl;
       var projects = this.props.data.projects.map(function(projects){
         var projectImage = 'images/portfolio/'+projects.image;
         return <div key={projects.title} className="columns portfolio-item">
@@ -30,7 +31,7 @@ class Portfolio extends Component {
 
          <div className="twelve columns collapsed">
 
-            <h1>Check Out Some of My Works.</h1>
+            <a href="https://github.com/Vidushi19?tab=repositories" target="_blank" className="git-url">Check Out Some of My Works.</a>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
