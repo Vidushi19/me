@@ -440,7 +440,7 @@ ul#nav li.current a { color: #F06000; }
 #portfolio .git-url{
    position: absolute;
    margin-left: -width/2; 
-   bottom:105%;
+   bottom:104%;
    margin-left: 40%;   
    font: 15px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
