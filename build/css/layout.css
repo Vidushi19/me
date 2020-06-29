@@ -704,7 +704,6 @@ call-to-action .button {
    font: 10px/22px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   /* margin-left:60%; */
    color: #fff;
 }
 #testimonials h1 span { display: inherit; }
