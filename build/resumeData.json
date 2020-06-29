@@ -131,7 +131,7 @@
     "projects": [
       {
         "title":"Amazon Machine Image",
-        "category":"Hashicorp Packer, Shell(Bash) Script, CircleCI, GIT",
+        "category":"Hashicorp Packer, Shell(Bash) Script, YML, CircleCI, GIT",
         "image":"packer.png",
         "url":"https://github.com/Vidushi19/fa19-team-011-ami"
       },
@@ -143,7 +143,7 @@
       },
       {
         "title":"AWS Cloud Computing| CI/CD",
-        "category":"Java, Spring Boot, Amazon S3, SQS, SNS, DynamoDB, Amazon RDS, EC2, CircleCI, AWS CodDeploy, Terraform, Cloud Formation",
+        "category":"CircleCI, AWS CodDeploy, Terraform, Cloud Formation, YML, Spring Boot, Amazon S3, SQS, SNS, DynamoDB, Amazon RDS, EC2",
         "image":"aws.png",
         "url":"https://github.com/Vidushi19/aws-cloud-webapp-recipe-SaaS"
       },
